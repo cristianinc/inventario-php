@@ -1,0 +1,35 @@
+[21-Nov-2020 03:47:06 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'sietep'@'localhost' (using password: YES) in /home/ybpbkppdeseb/public_html/inventario.cristianinc.tk/includes/database.php on line 18
+[21-Nov-2020 03:47:06 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'sietep'@'localhost' (using password: YES) in /home/ybpbkppdeseb/public_html/inventario.cristianinc.tk/includes/database.php on line 18
+[21-Nov-2020 03:48:00 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'sietep'@'localhost' (using password: YES) in /home/ybpbkppdeseb/public_html/inventario.cristianinc.tk/includes/database.php on line 18
+[21-Nov-2020 03:48:01 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'sietep'@'localhost' (using password: YES) in /home/ybpbkppdeseb/public_html/inventario.cristianinc.tk/includes/database.php on line 18
+[21-Nov-2020 03:50:33 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'sietep'@'localhost' (using password: YES) in /home/ybpbkppdeseb/public_html/inventario.cristianinc.tk/includes/database.php on line 18
+[21-Nov-2020 03:50:33 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'sietep'@'localhost' (using password: YES) in /home/ybpbkppdeseb/public_html/inventario.cristianinc.tk/includes/database.php on line 18
+[21-Nov-2020 03:51:27 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'sietep'@'localhost' (using password: YES) in /home/ybpbkppdeseb/public_html/inventario.cristianinc.tk/includes/database.php on line 18
+[21-Nov-2020 03:51:28 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'sietep'@'localhost' (using password: YES) in /home/ybpbkppdeseb/public_html/inventario.cristianinc.tk/includes/database.php on line 18
+[21-Nov-2020 03:51:28 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'sietep'@'localhost' (using password: YES) in /home/ybpbkppdeseb/public_html/inventario.cristianinc.tk/includes/database.php on line 18
+[21-Nov-2020 03:51:28 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'sietep'@'localhost' (using password: YES) in /home/ybpbkppdeseb/public_html/inventario.cristianinc.tk/includes/database.php on line 18
+[21-Nov-2020 03:51:28 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'sietep'@'localhost' (using password: YES) in /home/ybpbkppdeseb/public_html/inventario.cristianinc.tk/includes/database.php on line 18
+[21-Nov-2020 03:51:29 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'sietep'@'localhost' (using password: YES) in /home/ybpbkppdeseb/public_html/inventario.cristianinc.tk/includes/database.php on line 18
+[21-Nov-2020 03:51:29 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'sietep'@'localhost' (using password: YES) in /home/ybpbkppdeseb/public_html/inventario.cristianinc.tk/includes/database.php on line 18
+[09-Dec-2020 15:22:33 UTC] PHP Warning:  addslashes() expects exactly 1 parameter, 0 given in /home/ybpbkppdeseb/public_html/inventario.cristianinc.tk/ajax.php on line 20
+[21-Dec-2020 22:07:08 UTC] PHP Warning:  addslashes() expects exactly 1 parameter, 0 given in /home/ybpbkppdeseb/public_html/inventario.cristianinc.tk/ajax.php on line 20
+[21-Dec-2020 22:07:08 UTC] PHP Warning:  addslashes() expects exactly 1 parameter, 0 given in /home/ybpbkppdeseb/public_html/inventario.cristianinc.tk/ajax.php on line 20
+[21-Dec-2020 22:07:09 UTC] PHP Warning:  addslashes() expects exactly 1 parameter, 0 given in /home/ybpbkppdeseb/public_html/inventario.cristianinc.tk/ajax.php on line 20
+[21-Dec-2020 22:07:09 UTC] PHP Warning:  addslashes() expects exactly 1 parameter, 0 given in /home/ybpbkppdeseb/public_html/inventario.cristianinc.tk/ajax.php on line 20
+[21-Dec-2020 22:07:09 UTC] PHP Warning:  addslashes() expects exactly 1 parameter, 0 given in /home/ybpbkppdeseb/public_html/inventario.cristianinc.tk/ajax.php on line 20
+[21-Dec-2020 22:07:10 UTC] PHP Warning:  addslashes() expects exactly 1 parameter, 0 given in /home/ybpbkppdeseb/public_html/inventario.cristianinc.tk/ajax.php on line 20
+[21-Dec-2020 22:07:10 UTC] PHP Warning:  addslashes() expects exactly 1 parameter, 0 given in /home/ybpbkppdeseb/public_html/inventario.cristianinc.tk/ajax.php on line 20
+[21-Dec-2020 22:07:11 UTC] PHP Warning:  addslashes() expects exactly 1 parameter, 0 given in /home/ybpbkppdeseb/public_html/inventario.cristianinc.tk/ajax.php on line 20
+[21-Dec-2020 22:07:11 UTC] PHP Warning:  addslashes() expects exactly 1 parameter, 0 given in /home/ybpbkppdeseb/public_html/inventario.cristianinc.tk/ajax.php on line 20
+[21-Dec-2020 22:07:11 UTC] PHP Warning:  addslashes() expects exactly 1 parameter, 0 given in /home/ybpbkppdeseb/public_html/inventario.cristianinc.tk/ajax.php on line 20
+[21-Dec-2020 22:07:12 UTC] PHP Warning:  addslashes() expects exactly 1 parameter, 0 given in /home/ybpbkppdeseb/public_html/inventario.cristianinc.tk/ajax.php on line 20
+[21-Dec-2020 22:07:17 UTC] PHP Warning:  addslashes() expects exactly 1 parameter, 0 given in /home/ybpbkppdeseb/public_html/inventario.cristianinc.tk/ajax.php on line 20
+[21-Dec-2020 22:07:17 UTC] PHP Warning:  addslashes() expects exactly 1 parameter, 0 given in /home/ybpbkppdeseb/public_html/inventario.cristianinc.tk/ajax.php on line 20
+[21-Dec-2020 22:07:18 UTC] PHP Warning:  addslashes() expects exactly 1 parameter, 0 given in /home/ybpbkppdeseb/public_html/inventario.cristianinc.tk/ajax.php on line 20
+[21-Dec-2020 22:07:18 UTC] PHP Warning:  addslashes() expects exactly 1 parameter, 0 given in /home/ybpbkppdeseb/public_html/inventario.cristianinc.tk/ajax.php on line 20
+[21-Dec-2020 22:07:18 UTC] PHP Warning:  addslashes() expects exactly 1 parameter, 0 given in /home/ybpbkppdeseb/public_html/inventario.cristianinc.tk/ajax.php on line 20
+[21-Dec-2020 22:07:18 UTC] PHP Warning:  addslashes() expects exactly 1 parameter, 0 given in /home/ybpbkppdeseb/public_html/inventario.cristianinc.tk/ajax.php on line 20
+[21-Dec-2020 22:07:18 UTC] PHP Warning:  addslashes() expects exactly 1 parameter, 0 given in /home/ybpbkppdeseb/public_html/inventario.cristianinc.tk/ajax.php on line 20
+[21-Dec-2020 22:07:19 UTC] PHP Warning:  addslashes() expects exactly 1 parameter, 0 given in /home/ybpbkppdeseb/public_html/inventario.cristianinc.tk/ajax.php on line 20
+[21-Dec-2020 22:07:19 UTC] PHP Warning:  addslashes() expects exactly 1 parameter, 0 given in /home/ybpbkppdeseb/public_html/inventario.cristianinc.tk/ajax.php on line 20
+[21-Dec-2020 22:07:19 UTC] PHP Warning:  addslashes() expects exactly 1 parameter, 0 given in /home/ybpbkppdeseb/public_html/inventario.cristianinc.tk/ajax.php on line 20
